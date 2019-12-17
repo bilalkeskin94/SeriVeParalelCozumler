@@ -1,0 +1,4 @@
+﻿  vizeomp.cpp
+C:\Users\User\source\repos\vizeomp\vizeomp\vizeomp.cpp(34,10): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\User\source\repos\vizeomp\vizeomp\vizeomp.cpp(43,17): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  vizeomp.vcxproj -> C:\Users\User\source\repos\vizeomp\Debug\vizeomp.exe
